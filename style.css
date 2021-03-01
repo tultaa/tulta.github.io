@@ -4,7 +4,8 @@ body {
 
 h1 { color: yellow;
     }
-video{  position: fixed;
+
+video {  position: fixed;
   right: 0;
   bottom: 0;
   min-width: 100%;
