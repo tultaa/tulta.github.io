@@ -1,32 +1,43 @@
-body {
-  background-color: darkgreen;
-}
-
-h1 { color: yellow;
-    }
-
-video {  position: fixed;
+img {
+  position: fixed;
   right: 0;
   bottom: 0;
   min-width: 100%;
-  min-height: 100%}
-
-.ig {
-  text-align: center;
-  color: solid navy;
-  font-size: 60px;
-  font-family: Arial, Helvetica, sans-serif;
-  position: relative;
-  left: 500px;
-  width: 500px;
+  min-height: 100%;
+  align-items: center;
 }
 
-.tt {
+.mainCard {
+  display: flex;
+  align-items: center;
   text-align: center;
-  color: solid navy;
-  font-size: 60px;
-  font-family: Arial, Helvetica, sans-serif;
-  position: relative;
-  left: 500px;
+  background-color: #717171;
+  width: 430px;
+  height:460px;
+  border-radius: 0.375rem 0.375rem 0.375rem 0.375rem;
+
 }
 
+.cardContent {
+  align-items: center;
+  text-align: center;
+  background-color: #828282;
+  width: 400px;
+  height:430px;
+  
+}
+
+.tultaTitle {
+  font-family: Andale Mono, monospace;
+}
+
+.hr01 {
+  width: 300px;
+}
+
+.iconIg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
