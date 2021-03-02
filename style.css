@@ -18,8 +18,7 @@ video {  position: fixed;
   font-family: Arial, Helvetica, sans-serif;
   position: relative;
   left: 500px;
-  width: 150px;
-  height: 150px;
+  width: 500px;
 }
 
 .tt {
@@ -29,7 +28,5 @@ video {  position: fixed;
   font-family: Arial, Helvetica, sans-serif;
   position: relative;
   left: 500px;
-  width: 150px;
-  height: 150px;
 }
 
