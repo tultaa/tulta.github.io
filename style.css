@@ -57,8 +57,6 @@
   top: 30px; 
 }
 
-.iconTt:hover {opacity: 1}
-
 .iconIg {
   display: block;
   margin-left: auto;
@@ -69,5 +67,3 @@
   left: 10px;
   bottom: 15px
 }
-
-.iconIg:hover {opacity: 1}
