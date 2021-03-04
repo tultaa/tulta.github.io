@@ -19,7 +19,6 @@
   width: 370px;
   height:400px;
   border-style: groove;
-  border-color: solid navy;
   border-width: thick;
   border-radius: 0.375rem 0.375rem 0.375rem 0.375rem;
   border-color: #000000;
@@ -44,6 +43,12 @@
 
 .hr01 {
   width: 300px;
+  color: black;
+}
+
+.hr02 {
+ width: 300px;
+ color: black;
 }
 
 .iconTt {
@@ -54,7 +59,7 @@
   height: 45px;
   position: relative;
   right: 45px;
-  top: 30px; 
+  top: 20px; 
 }
 
 .iconIg {
@@ -65,5 +70,10 @@
   height: 45px;
   position: relative;
   left: 10px;
-  bottom: 15px
+  bottom: 25px
+}
+
+.mp3 {
+position:relative;
+top: 35px;
 }
