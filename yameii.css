@@ -54,7 +54,6 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     background:url('http://tultaa.github.io/images/pink.jpg')!important;
     box-shadow: inset 0px 0px 150px  rgba(255, 255, 255, 0.2) ;        
     border-radius:20px 20px 0px 0px;
-    opacity: 0.1;
 }
 .social-scroll::-webkit-scrollbar {
     width: 0px!important;    
