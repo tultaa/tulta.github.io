@@ -422,7 +422,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     align-items: center;
     cursor: pointer;
     background: rgba(1,10,19,0.7)!important;
-    box-shadow 0 5px 45px rgba(0,0,0,0.5);
+    box-shadow: 0 5px 45px rgba(0,0,0,0.5);
 }
 
 .friend-requests-header {
