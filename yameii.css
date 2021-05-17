@@ -13,7 +13,7 @@
     opacity:0;
 }
 .collections-application{
-    background: url(http://tultaa.github.io/images/Yameii1.jpg) !important;
+    background: url(http://tultaa.github.io/images/Yameii1.gif) !important;
 }
 
 div[data-screen-name='rcp-fe-lol-navigation-screen'] {
@@ -51,9 +51,10 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     -webkit-user-drag: none;
     -webkit-user-select: none;
     background-color:transparent !important;
-    background:url('http://tultaa.github.io/images/Yameii2.jpg')!important;
+    background:url('http://tultaa.github.io/images/pink.jpg')!important;
     box-shadow: inset 0px 0px 150px  rgba(255, 255, 255, 0.2) ;        
     border-radius:20px 20px 0px 0px;
+    opacity: 0.1;
 }
 .social-scroll::-webkit-scrollbar {
     width: 0px!important;    
@@ -141,7 +142,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     width: 1055px;
     height: 718px;
     overflow: hidden;
-    background: url(http://rzzzabka.github.io/themes/assets/clouds1.jpg) !important;
+    background: url(http://rzzzabka.github.io/themes/assets/yameii1.gif) !important;
     
 }
 
@@ -496,7 +497,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
 
 
 .loot-backdrop .lol-uikit-video-content{
-    background: url(http://tultaa.github.io/images/Yameii1.jpg) !important;    
+    background: url(http://tultaa.github.io/images/yameii1.gif) !important;    
     display: block;   
     box-sizing: border-box;
     width: 180px; 
