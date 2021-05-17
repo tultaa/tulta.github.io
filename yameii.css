@@ -7,13 +7,13 @@
 
 .parties-view
 {
-    background: url(http://tultaa.github.io/images/Yameii1.gif) !important;
+    background: url(http://tultaa.github.io/images/pink.jpg) !important;
 }
 .parties-view .parties-background {
     opacity:0;
 }
 .collections-application{
-    background: url(http://tultaa.github.io/images/Yameii1.gif) !important;
+    background: url(http://tultaa.github.io/images/pink.jpg) !important;
 }
 
 div[data-screen-name='rcp-fe-lol-navigation-screen'] {
@@ -141,7 +141,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     width: 1055px;
     height: 718px;
     overflow: hidden;
-    background: url(http://rzzzabka.github.io/themes/assets/yameii1.gif) !important;
+    background: url(http://tultaa.github.io/images/pink.jpg) !important;
     
 }
 
@@ -496,7 +496,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
 
 
 .loot-backdrop .lol-uikit-video-content{
-    background: url(http://tultaa.github.io/images/yameii1.gif) !important;    
+    background: url(http://tultaa.github.io/images/pink.jpg) !important;    
     display: block;   
     box-sizing: border-box;
     width: 180px; 
