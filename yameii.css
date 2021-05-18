@@ -250,7 +250,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
 .basic-button .league-logo {
     position: absolute;
     top: -6px!important;
-    left: -13px!important
+    left: -13px!important;
     cursor: default;
     opacity: 0;
 }
